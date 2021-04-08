@@ -1,0 +1,7 @@
+.*
+*.py~
+__pycache__
+checkpoints*
+*.swp
+saved/
+physionet/
